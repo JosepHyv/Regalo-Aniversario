@@ -8,7 +8,7 @@ gracias por todo.
 
 
 <ol> 
-	<li>Capturar</li>
+	<li><a name="https://github.com/JosepHyv/Regalo-Aniversario/blob/master/capturar.py>Capturar</a></li>
 	<li>Entrenar IA</li>
 	<li>mensajeHermoso</li>
 	<li>ojosDeVida</li>

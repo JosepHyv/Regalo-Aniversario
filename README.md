@@ -1,8 +1,6 @@
 <h1>Para VRM 💕</h1>
 <p align = "justify" > 
-Este es un proyecto de vision computacional creado con el unico objetivo de detectar a la niña
-más hermosa del universo, despues de entrenar una red neuronal con el videos y fotos de su rostro
-gracias por todo este amor, por estar conmigo en las buenas y en las malas, esto es para ti. 
+Este es un proyecto de visión computacional creado con el único objetivo de detectar a la niña, más hermosa del universo, después de entrenar una red neuronal con videos y fotos de su rostro, gracias por todo este amor, por estar conmigo en las buenas y en las malas, esto es para ti. 
 </p> 
 
 

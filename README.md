@@ -8,11 +8,11 @@ gracias por todo.
 
 
 <ol> 
-	<li>Capturar<\li>
-	<li>Entrenar IA<\li>
-	<li>mensajeHermoso<\li>
-	<li>ojosDeVida<\li>
-	<li>run.sh<\li>
-	<li>fuentes/<\li>
+	<li>Capturar</li>
+	<li>Entrenar IA</li>
+	<li>mensajeHermoso</li>
+	<li>ojosDeVida</li>
+	<li>run.sh</li>
+	<li>fuentes/</li>
 
 </ol> 
